@@ -1,0 +1,15 @@
+{
+  "_output_dir": "/Users/j5pu",
+  "_repo_dir": "/Users/j5pu/.cookiecutters/cookiecutter-hypermodern-python",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Claudio Jolowicz",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 3 - Alpha",
+  "email": "mail@claudiojolowicz.com",
+  "friendly_name": "Sbit",
+  "github_user": "j5pu",
+  "license": "MIT",
+  "package_name": "sbit",
+  "project_name": "sbit",
+  "version": "0.0.0"
+}

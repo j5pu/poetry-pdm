@@ -1,0 +1,22 @@
+[project]
+name = "gitp"
+version = "0.1.0"
+description = "Git package"
+authors = [
+    {name = "root",email = "root@example.com"},
+]
+dependencies = []
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+[tool]
+[tool.pdm]
+[tool.pdm.dev-dependencies]
+test = [
+    "pytest>=7.4.0",
+]

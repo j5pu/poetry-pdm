@@ -1,0 +1,31 @@
+{
+  "template": "https://github.com/radix-ai/poetry-cookiecutter",
+  "commit": "3234dfa57986d20ca428bdc9e7e88e8887797c5d",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "package_name": "ppath",
+      "package_description": "A Python package that ...",
+      "package_url": "https://github.com/j5pu/ppath",
+      "author_name": "John Smith",
+      "author_email": "john@example.com",
+      "python_version": "3.11",
+      "development_environment": "strict",
+      "with_conventional_commits": "1",
+      "with_fastapi_api": "1",
+      "with_jupyter_lab": "1",
+      "with_pydantic_typing": "1",
+      "with_sentry_logging": "1",
+      "with_streamlit_app": "1",
+      "with_typer_cli": "1",
+      "continuous_integration": "GitHub",
+      "docstring_style": "Google",
+      "private_package_repository_name": "ppath",
+      "private_package_repository_url": "https://github.com/j5pu/ppath",
+      "__package_name_kebab_case": "ppath",
+      "__package_name_snake_case": "ppath",
+      "_template": "https://github.com/radix-ai/poetry-cookiecutter"
+    }
+  },
+  "directory": null
+}
